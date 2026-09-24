@@ -52,7 +52,13 @@ make courses, tests, and study resources easier to access.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+## 📊 My GitHub
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-krishnapatedesigner-181717?style=for-the-badge&logo=github)](https://github.com/krishnapatedesigner)
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Projects-2ea44f?style=for-the-badge&logo=github)](https://github.com/krishnapatedesigner?tab=repositories)
 
 ---
 
